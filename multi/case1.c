@@ -21,4 +21,6 @@ int main()
 }
 
 /*output
- * By defalut it givrs Garbage value beacuse we did assign the values to the variables*/
+ * By defalut it givrs Garbage value beacuse we did assign the values to the variables
+ *0
+ */

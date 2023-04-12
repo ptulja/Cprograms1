@@ -27,4 +27,6 @@ int main()
 }
 
 /*output
- * Garbage value beacuse after the complition given the values*/
+ * Garbage value beacuse after the complition given the values
+ *0
+ */
