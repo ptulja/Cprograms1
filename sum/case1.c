@@ -23,6 +23,7 @@ int main()
 
 
 
-/*sum garbage value will come atumatically8*/
+/*sum garbage value will come atumatically8
+ *32766 */
 
 
