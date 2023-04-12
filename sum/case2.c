@@ -25,4 +25,5 @@ int main()
 }
 
 
-/* The out put is garbage value beacuse after the main logic we have given the numbers so it takes garbage value*/
+/* The out put is garbage value beacuse after the main logic we have given the numbers so it takes garbage value
+ *32767 */
