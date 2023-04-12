@@ -27,4 +27,5 @@ int main()
 }
 
 /*output
- * Garbage value beacuse after the main logic we assign the values*/ 
+ * Garbage value beacuse after the main logic we assign the values
+ *32767 */ 

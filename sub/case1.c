@@ -21,4 +21,5 @@ int main()
 }
 
 /*output
- *By defult it will take garbage value beacuse we did assign the values to the variables*/
+ *By defult it will take garbage value beacuse we did assign the values to the variable
+  s 32765*/
