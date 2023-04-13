@@ -29,4 +29,10 @@ int main()
       printf("Result of %f and %f number is %f\n", num1, num2, result);
       
       return 0;
-}      
+}
+
+/*output
+ * Enter the num1:2.3
+Enter the num2:4.5
+Result of 2.300000 and 4.500000 number is 6.800000
+*/
