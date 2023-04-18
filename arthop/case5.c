@@ -13,12 +13,12 @@ int main()
 
     	a=7;
     
-    	b=5;
+    	b=2;
     
    //apply the main logic
 
      
-        d=a%b;
+        d=a/b;
 
    // ptint the d value
 

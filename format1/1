@@ -1,0 +1,24 @@
+#include<stdio.h>
+int main()
+{
+        //decalre the variable
+	        char a;
+
+                int c;
+		 
+                a='i';
+                 
+        // assign the value
+                
+		
+	//apply the logic
+
+         c='i'+1;
+
+         //print the value of a
+
+          printf("%d\n", a);
+
+         return 0;
+}
+/*output is terminated*/

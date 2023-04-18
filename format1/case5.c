@@ -2,19 +2,20 @@
 int main()
 {
         //decalre the variable
-                char='i';
-
                 int  a;
-        // assign the value
-                
+    
+                char b;
+
+		b = 'i';
+
 		
 	//apply the logic
 
-         a='i'+1;
+         a = b+1;
 
          //print the value of a
 
-          printf("%d\n", a);
+          printf("%c\n", a);
 
          return 0;
 }
