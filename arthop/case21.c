@@ -5,14 +5,16 @@ int main()
         // declare the variables with values
 
         int a,b=4;
+	 
+	int c;
         
         a=100;
 
         // apply the main logic
 
-       (b=a)+4;
+       c= (b=a)+4;
 
-        printf("%d %d\n", a,b);
+        printf("%d\n", c);
 
         return 0;
 		
